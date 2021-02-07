@@ -14,3 +14,6 @@ Available dataset:
                    2015-2016 playoff stats: 2015-16_Playoffs_box_scores.csv                     
                    2016-2017 playoff stats: 2016-17_Playoffs_box_scores.csv                     
                    2017-2018 playoff stats: 2017-18_Playoffs_box_scores.csv
+
+script is in: week4_assignment.ipynb
+picture of the charts from script: KDE Plot_2pt-3pt performance in NBA games.jpg
